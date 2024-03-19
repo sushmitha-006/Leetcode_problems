@@ -1,1 +1,1 @@
-# Leetcode_problems
+# competitive programming
